@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="TextView">Enter The Following:</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="quizes">Quizes</string>
+    <string name="quizes_15">Quizes 15%</string>
+    <string name="homework_25">HomeWork 25%</string>
+    <string name="mid_terms_30">Mid-Terms 30%</string>
+    <string name="final_30">Final 30%</string>
+    <string name="todo">TODO</string>
+    <string name="calculate">Calculate</string>
+</resources>

@@ -1,0 +1,3 @@
+The app was tested on a galaxy S9+
+
+for optimal expierence, please test on Pixel 3 or other devices with larger screen dimensions
