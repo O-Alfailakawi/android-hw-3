@@ -9,4 +9,13 @@
     <string name="final_30">Final 30%</string>
     <string name="todo">TODO</string>
     <string name="calculate">Calculate</string>
+    <string name="quizesText">Quizes:</string>
+    <string name="homework">Homework:</string>
+    <string name="mid_terms">Mid-Terms:</string>
+    <string name="finals">Final:</string>
+    <string name="finalText">Final:</string>
+    <string name="_15">15%</string>
+    <string name="_25">25%</string>
+    <string name="_30">30%</string>
+    <string name="_30_2">30%</string>
 </resources>
